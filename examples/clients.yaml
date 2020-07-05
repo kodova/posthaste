@@ -1,0 +1,7 @@
+method: GET
+host: https://api.geniusmonkey.com
+path: /brain/v1/clients/
+headers:
+  "authorization": Basic 
+
+

@@ -1,0 +1,6 @@
+method: GET
+host: http://127.0.0.1
+path: /v1/pets
+headers:
+  "Content-Type": "application/json"
+
